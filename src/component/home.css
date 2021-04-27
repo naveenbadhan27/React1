@@ -1,0 +1,25 @@
+.main-body
+{
+    height: 700px;
+    overflow: hidden;
+}
+.img-responsive
+{
+    width: 100%;
+    /* position: absolute; */
+}
+.About
+{
+    position: absolute;
+    top: 350px;
+    color: white;
+    left: 250px;
+}
+.Grid
+{
+    padding: 50px;
+}
+.card
+{
+    margin: 50px;
+}
